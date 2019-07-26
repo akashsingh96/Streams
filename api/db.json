@@ -1,3 +1,34 @@
 {
-    "streams":[]
+  "streams": [
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 1
+    },
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 2
+    },
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 3
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 4
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 5
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 6
+    }
+  ]
 }
