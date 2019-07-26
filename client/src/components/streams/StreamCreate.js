@@ -18,7 +18,7 @@ class  StreamCreate extends React.Component{
             <div className='field error'>
                 <label>{label}</label>
                 <input {...input} autoComplete='off'/>
-                <div>{this.renderError(meta)}</div>
+                {this.renderError(meta)}
             </div>
         
         )
